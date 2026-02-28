@@ -1,6 +1,6 @@
 {
-  "version": "4.2.3",
+  "version": "4.3.1",
   "mandatory": false,
   "url": "https://drive.google.com/drive/folders/1-EyDYSL8ghFQ3QXL4OrTmDTI2-psI1y4?usp=sharing",
-  "notes": "自動更新機能の追加"
+  "notes": "Pexelsエンジンによる画像検索機能の強化（Pro機能）"
 }
