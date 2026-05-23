@@ -1,6 +1,6 @@
 {
-  "version": "4.3.1",
+  "version": "4.4.0",
   "mandatory": false,
   "url": "https://drive.google.com/drive/folders/1-EyDYSL8ghFQ3QXL4OrTmDTI2-psI1y4?usp=sharing",
-  "notes": "Pexelsエンジンによる画像検索機能の強化（Pro機能）"
+  "notes": "動画に署名する機能を追加。C2PA形式のメタ情報を書き込み、既存メタデータの読み込み・編集に対応しました。"
 }
