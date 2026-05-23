@@ -1,6 +1,6 @@
 {
-  "version": "4.4.0",
+  "version": "4.4.1",
   "mandatory": false,
   "url": "https://drive.google.com/drive/folders/1-EyDYSL8ghFQ3QXL4OrTmDTI2-psI1y4?usp=sharing",
-  "notes": "動画に署名する機能を追加。C2PA形式のメタ情報を書き込み、既存メタデータの読み込み・編集に対応しました。"
+  "notes": "画像設定のPro機能にPixabay詳細設定を追加。画像タイプ、向き、カテゴリ、色味、並び順を指定できるようにしました。"
 }
