@@ -1,6 +1,6 @@
 {
-  "version": "4.4.1",
+  "version": "4.4.2",
   "mandatory": false,
   "url": "https://drive.google.com/drive/folders/1-EyDYSL8ghFQ3QXL4OrTmDTI2-psI1y4?usp=sharing",
-  "notes": "画像設定のPro機能にPixabay詳細設定を追加。画像タイプ、向き、カテゴリ、色味、並び順を指定できるようにしました。"
+  "notes": "Pixabayへ切り替えた際に以前の画像フォルダ設定が残り、画像が空で挿入される場合がある問題を修正しました。"
 }
