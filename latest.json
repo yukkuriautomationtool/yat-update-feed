@@ -1,6 +1,6 @@
 {
-  "version": "4.4.2",
+  "version": "4.5.0",
   "mandatory": false,
   "url": "https://drive.google.com/drive/folders/1-EyDYSL8ghFQ3QXL4OrTmDTI2-psI1y4?usp=sharing",
-  "notes": "Pixabayへ切り替えた際に以前の画像フォルダ設定が残り、画像が空で挿入される場合がある問題を修正しました。"
+  "notes": "その他設定タブに設定バックアップ/復元機能を追加しました。APIキーを除外したバックアップを推奨し、PC移行時はAPIキーを含めた完全バックアップも選択できます。"
 }
