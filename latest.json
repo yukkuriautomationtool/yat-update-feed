@@ -1,6 +1,6 @@
 {
-  "version": "4.6.0",
+  "version": "4.8.0",
   "mandatory": false,
   "url": "https://drive.google.com/drive/folders/1-EyDYSL8ghFQ3QXL4OrTmDTI2-psI1y4?usp=sharing",
-  "notes": "その他設定タブに環境診断機能を追加しました。キャラ設定ファイルの自動検出範囲と、OpenAI APIエラー時の案内も改善しました。"
+  "notes": "AI台本生成でGemini API/ Claude APIにそれぞれ対応しました。"
 }
