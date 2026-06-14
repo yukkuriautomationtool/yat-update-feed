@@ -1,6 +1,6 @@
 {
-  "version": "4.8.0",
+  "version": "4.9.0",
   "mandatory": false,
   "url": "https://drive.google.com/drive/folders/1-EyDYSL8ghFQ3QXL4OrTmDTI2-psI1y4?usp=sharing",
-  "notes": "AI台本生成でGemini API/ Claude APIにそれぞれ対応しました。"
+  "notes": "自動編集の進捗表示を一本化し、画像取得中も行数ベースで進行状況が分かるようにしました。実行前チェックと失敗時のエラー表示を強化し、ログや問い合わせ用文面をコピーしやすくしました。配布パッケージも軽量化しています。"
 }
